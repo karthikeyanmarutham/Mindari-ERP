@@ -1,6 +1,8 @@
 # Mindari-ERP
 A Multi-Company Enterprise Resource Planning App
 
+<p>This App Fully private Company based application</p>
+<p></br>for the reason only i share the screenshots only</p>
 <table>
 <tr>
 <td>Login<br><img src="https://github.com/karthikeyanmarutham/Mindari-ERP/blob/main/screenshot1.jpeg" width="100" title="Login"></td>
